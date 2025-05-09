@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Muhammad Fahri, a student of class XI RPL at SMKN 1 Jakarta. I have a strong<br>interest in web development and would be honored to learn and contribute in a<br>professional environment.<br><br>I have experience and knowledge in HTML, CSS, PHP, and Laravel. I have used these<br>technologies in several school projects, where I developed simple web applications<br>both independently and in group settings.
+My name is Muhammad Fahri, a student of class XI RPL at SMKN 1 Jakarta. I have a strong<br>interest in web development.<br><br>I have experience and knowledge in HTML, CSS, PHP, and Laravel. I have used these<br>technologies in several school projects, where I developed simple web applications<br>both independently and in group settings.
 
 
 ## 🌐 Socials:
